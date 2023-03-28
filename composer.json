@@ -1,0 +1,19 @@
+{
+    "name": "omargarcia/bienesraices_poo",
+    "description": "Agregando POO",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omar Garcia",
+            "email": "za19012225@zapopan.tecmm.edu.mx"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    }
+}
